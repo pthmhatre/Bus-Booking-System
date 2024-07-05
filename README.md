@@ -24,7 +24,7 @@ purchase a bus ticket.
 
 # System Design
 <p align="center">
-  <img src="https://github.com/pthmhatre/Bus-Booking-System/assets/100022723/4327c131-de61-4041-aac2-5425a74a5493" alt="tree1" width="100%" height="10rem">
+  <img src="https://github.com/pthmhatre/Bus-Booking-System/assets/100022723/4327c131-de61-4041-aac2-5425a74a5493" alt="tree1" width="100%" height="20%">
 </p>
 
 # UI Design
