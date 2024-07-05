@@ -21,3 +21,6 @@ purchase a bus ticket.
 2. Enabling customers to check the availability and types of buses online as well as if they are planning for family trip then we provide buses for rent too.Customer can check the time of arrival and departure for every Bus-Cap bus through the system.
 3. The database of our system gets updated from time to time to get detailed and accurate information about tickets.
 4. This application gives utmost importance to security and usability.
+
+# System Design
+![tree1](https://github.com/pthmhatre/Bus-Booking-System/assets/100022723/4327c131-de61-4041-aac2-5425a74a5493)
