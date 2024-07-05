@@ -23,7 +23,6 @@ purchase a bus ticket.
 4. This application gives utmost importance to security and usability.
 
 # System Design
-![tree1](https://github.com/pthmhatre/Bus-Booking-System/assets/100022723/4327c131-de61-4041-aac2-5425a74a5493)
 <p align="center">
   <img src="https://github.com/pthmhatre/Bus-Booking-System/assets/100022723/4327c131-de61-4041-aac2-5425a74a5493" alt="tree1">
 </p>
